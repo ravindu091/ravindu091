@@ -1,80 +1,107 @@
-::: {align="center"}
-# Hi, I'm Ravindu Dilupa 👋
+ <div align="center">
 
-**Computer Science Undergraduate \| Software Developer \| Curious
-Builder**
+# Ravindu Dilupa
 
-I'm a second-year Computer Science undergraduate at the **University of
-Colombo School of Computing (UCSC), Sri Lanka**. I enjoy learning how
-technology works and turning ideas into useful software.
+### Computer Science Undergraduate | Software Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-ravindu091-181717?style=for-the-badge&logo=github)](https://github.com/ravindu091)
-:::
+*Turning ideas into software. Learning through building.*
 
-------------------------------------------------------------------------
+[![GitHub](https://img.shields.io/badge/GitHub-ravindu091-181717?style=flat-square&logo=github)](https://github.com/ravindu091)
+[![Profile Views](https://komarev.com/ghpvc/?username=ravindu091&style=flat-square&color=0e75b6)](https://github.com/ravindu091)
 
-## About me
+</div>
 
--   🎓 Studying Computer Science at the University of Colombo School of
-    Computing.
--   💻 Interested in web development, software engineering, and machine
-    learning.
--   🧩 Enjoy building projects, exploring new technologies, and solving
-    problems.
--   🌱 Currently improving my skills in modern web development and
-    software architecture.
+---
 
-## Tech stack
+## About Me
 
-### Languages
+Hello! I'm **Ravindu Dilupa**, a Computer Science undergraduate at the **University of Colombo School of Computing (UCSC), Sri Lanka**.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+I'm passionate about software development and exploring how technology can solve real-world problems. I enjoy building applications, understanding system architecture, experimenting with new technologies, and continuously improving my engineering skills.
 
-### Web development
+- 🎓 Computer Science undergraduate at UCSC.
+- 💻 Interested in full-stack development and software engineering.
+- 🧠 Exploring machine learning, distributed systems, and software architecture.
+- 🚀 Enjoy developing practical projects and experimenting with new ideas.
+- 🌱 Always learning something new.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind
-CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+---
 
-### Databases and tools
+## Technical Skills
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+### Programming Languages
 
-## Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php&theme=dark" alt="C, C++, Java, Python, JavaScript, TypeScript, PHP, Rust"/>
+</p>
 
-### DineCast
+### Frontend Development
 
-A university team project focused on improving restaurant operations
-through workflows for inventory, procurement, menu planning, and demand
-forecasting.
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&theme=dark" alt="Frontend technologies"/>
+</p>
 
-### More projects
+### Backend & Databases
 
-Explore my repositories to see what I'm building and learning.
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,mongodb&theme=dark" alt="Backend and database technologies"/>
+</p>
 
-## GitHub activity
+### Tools & Platforms
 
-::: {align="center"}
-![GitHub
-Streak](https://streak-stats.demolab.com?user=ravindu091&theme=transparent)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux&theme=dark" alt="Development tools"/>
+</p>
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu091&layout=compact&theme=transparent)
-:::
 
-------------------------------------------------------------------------
 
-::: {align="center"}
-*Always learning. Always building.*
-:::
+## GitHub Statistics
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-stats-extended.vercel.app/api?username=ravindu091&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics" />
+</td>
+<td width="50%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ravindu091&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ravindu091&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## Current Interests
+
+- Modern web application development
+- Software architecture and design patterns
+- Distributed systems and middleware
+- Machine learning and artificial intelligence
+- Open-source software and research
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ravindu091">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*Building today. Improving tomorrow.*
+
+</div>
